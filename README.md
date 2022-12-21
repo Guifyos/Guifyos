@@ -1,15 +1,9 @@
 #👋 Hi, I’m @Guifyos
 
-<!---
-Guifyos/Guifyos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### Oiii meu nome é Guilherme, estudante de ciência da computação, aprendendo e desenvolvendo projetos todo dia 😄
-
 <div align="center">
   <a href="https://github.com/Guifyos">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Guifyos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guifyos&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Guifyos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guifyos&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Guif-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
